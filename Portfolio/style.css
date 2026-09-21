@@ -1,0 +1,56 @@
+.head
+{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+body
+{
+    background-color:black;
+    color:white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+h1, h2, h3{
+    color:blue;
+    font-family:cursive;
+}
+.about
+{
+    color:green;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+}
+.me
+{
+    color:orange;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:900;
+}
+.edu
+{
+    color:purple;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.skill
+{
+    color:blue;
+    font-family:cursive;
+}
+.projects
+{
+   
+    font-family:cursive;;
+}
+.contact
+{
+    color:rgb(12, 191, 223);
+    font-family:Arial, sans-serif;
+}
+.profile
+{
+    border-radius: 50%;
+    float: right;
+    margin-top: 42px;
+}
